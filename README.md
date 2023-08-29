@@ -16,6 +16,10 @@
 - ⚡ Fun fact **Always with the right leg**
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://discord.gg/sCFgbkJp59">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  </a>
 <p align="left">
 </p>
 
