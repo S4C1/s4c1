@@ -19,7 +19,7 @@ Estou focado em dominar essas habilidades
 <div align="center">
 
  ### Pode me encontrar nessa comunidade
-  <a href="https://discord.gg/sCFgbkJp59">
+  <a href="https://discord.gg/77B26gw4JZ">
     <img src="https://discordapp.com/api/guilds/1128702532701663322/widget.png?style=shield" alt="Discord Server">
   </a>
 
