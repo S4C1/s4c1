@@ -6,7 +6,7 @@
 #
 >
 <div align="center">
-Estou focado em dominar essas habilidades
+### Estou focado em dominar essas habilidades
 </div>
 <div align="center">
    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"width="39px">
