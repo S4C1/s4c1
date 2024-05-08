@@ -6,6 +6,7 @@
 #
 >
 <div align="center">
+ 
 ### Estou focado em dominar essas habilidades
 </div>
 <div align="center">
