@@ -20,7 +20,7 @@ Estou focado em dominar essas habilidades
 
  ### Pode me encontrar nessa comunidade
   <a href="https://discord.gg/77B26gw4JZ">
-    <img src="https://github.com/S4C1/img/blob/62a7966b8a84d7f61773e634790eeb4794231470/discord-icon.svg"width="40px">
+    <img src="https://github.com/S4C1/img/blob/62a7966b8a84d7f61773e634790eeb4794231470/discord-icon.svg"width="90px">
   </a>
 
  
